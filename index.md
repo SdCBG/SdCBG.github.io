@@ -1,14 +1,12 @@
-## SdCBG - Gruppo di Scienza delle Costruzioni
+## SdCBG - Gruppo di Scienza delle Costruzioni ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg)
 ## Università degli studi di Bergamo
-![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg)
-
 
 <br>
 ## Persone
 
 - **Egidio RIZZI**
 PO
-[Link](https://www.unibg.it/ugov/person/2966) and ![https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/egidiorizzi3.jpg](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/egidiorizzi3.jpg)
+[Link](https://www.unibg.it/ugov/person/2966) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/egidiorizzi3.jpg)
 
 - **Rosalba FERRARI**
 RTD-B
