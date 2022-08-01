@@ -1,4 +1,6 @@
-## SdCBG - Gruppo di Scienza delle Costruzioni, Universita' degli studi di Bergamo
+## SdCBG
+## Gruppo di Scienza delle Costruzioni
+## Universita' degli studi di Bergamo
 
 
 ### Persone
@@ -19,5 +21,3 @@ AR
 - **Giuseppe COCCHETTI**
 PA esterno
 [Link](https://www.unibg.it/ugov/person/2428) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/giuseppecocchetti.jpg)
-
- 
