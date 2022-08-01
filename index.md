@@ -24,8 +24,6 @@ PA esterno
 
 
 <br>
-## Insegnamenti SSD ICAR/08 - Scienza delle Costruzioni
-
 <br>
 <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
 <br>
