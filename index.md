@@ -3,7 +3,7 @@
 ## Universita' degli studi di Bergamo
 
 
-### Persone
+## Persone
 
 - **Egidio RIZZI**
 PO
