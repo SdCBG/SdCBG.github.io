@@ -1,6 +1,7 @@
 ## SdCBG
 ## Gruppo di Scienza delle Costruzioni
-## Universita' degli studi di Bergamo
+## Università degli studi di Bergamo
+![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg)
 
 
 ## Persone
@@ -21,3 +22,21 @@ AR
 - **Giuseppe COCCHETTI**
 PA esterno
 [Link](https://www.unibg.it/ugov/person/2428) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/giuseppecocchetti.jpg)
+
+
+## Insegnamenti SSD ICAR/08 - Scienza delle Costruzioni
+
+<br>
+<b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/acornaggia/blob/main/Archivio_SeFdSdC/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (9 CFU)</font></a></b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_SdC/SdC.html"><font color="blue">Scienza delle Costruzioni (9 CFU)</font></a></b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_CdSdC/CdSdC.html"><font color="blue">Complementi di Scienza delle Costruzioni (6 CFU)</font></a></b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_FDIS/DIAS.html"><font color="blue">Dinamica e Anelasticit&agrave; delle Strutture (6 CFU)</font></a></b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/rferrari/blob/main/Archivio_MCSS/MCSS.html"><font color="blue">Computational Mechanics of Solids and Structures (6 CFU)</font></a></b>
+<br>
+- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/rferrari/blob/main/Archivio_SM/SM.html"><font color="blue">Structural Monitoring (3 CFU)</font></a></b>
