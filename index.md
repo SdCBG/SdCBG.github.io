@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SdCBG - Gruppo di Scienza delle Costruzioni, Universita' degli studi di Bergamo
 
 You can use the [editor on GitHub](https://github.com/SdCBG/SdCBG.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
