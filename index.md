@@ -3,6 +3,7 @@
 ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg)
 
 
+<br>
 ## Persone
 
 - **Egidio RIZZI**
@@ -22,6 +23,7 @@ PA esterno
 [Link](https://www.unibg.it/ugov/person/2428) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/giuseppecocchetti.jpg)
 
 
+<br>
 ## Insegnamenti SSD ICAR/08 - Scienza delle Costruzioni
 
 <br>
