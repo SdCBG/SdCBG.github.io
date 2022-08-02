@@ -6,7 +6,7 @@
 
 - **Egidio RIZZI**
 PO
-[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) and <img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" width="200">
+[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/egidiorizzi3.jpg)
 
 - **Rosalba FERRARI**
 RTD-B
@@ -23,7 +23,7 @@ Docente esterno
 
 <br>
 <br>
-## <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
+## Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI
 <br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 <br>
