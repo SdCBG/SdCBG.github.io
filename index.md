@@ -5,7 +5,7 @@
 
   
 <br>
-## &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>Persone<b>
+##                     <b>Persone<b>
 
 - **Egidio RIZZI**
 PO
