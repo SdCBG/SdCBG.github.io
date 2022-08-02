@@ -1,25 +1,28 @@
 <img src="/Files/logoSdCbG.jpg" width="200" align=left />
 
-# <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
-# <b>Università degli studi di Bergamo</b>
+## <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
+## <b>Università degli studi di Bergamo</b>
 
   
 <br>
-# <b>Persone<b>
+## <b>Persone<b>
 
 - **Egidio RIZZI**
 PO
 [Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) ![Image](/Files/egidiorizzi3.jpg)
 <br>
+<br>  
 
 - **Rosalba FERRARI**
 RTD-B
 [Link](https://www.unibg.it/ugov/person/483) ![Image](/Files/ferrarirosalba_sitounibg2_0.jpg)
 <br>
+<br>
   
 - **Aram CORNAGGIA**
 AR
 [Link](https://www.unibg.it/ugov/person/84888) ![Image](/Files/aramcornaggia.jpg)
+<br>
 <br>
   
 - **Giuseppe COCCHETTI**
