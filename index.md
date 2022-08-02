@@ -4,6 +4,8 @@
 <br>
 ## Persone
 
+<img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" width="100" border="0"></a>
+
 - **Egidio RIZZI**
 PO
 [Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/egidiorizzi3.jpg)
