@@ -24,15 +24,17 @@ Docente esterno
 <br>
 <br>
 <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
+<br><br>
+<b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/acornaggia/blob/main/Archivio_SeFdSdC/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (9 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (9 CFU)</font></a></b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_SdC/SdC.html"><font color="blue">Scienza delle Costruzioni (9 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/SdC.html"><font color="blue">Scienza delle Costruzioni (9 CFU)</font></a></b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_CdSdC/CdSdC.html"><font color="blue">Complementi di Scienza delle Costruzioni (6 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/CdSdC.html"><font color="blue">Complementi di Scienza delle Costruzioni (6 CFU)</font></a></b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/erizzi/blob/main/Archivio_FDIS/DIAS.html"><font color="blue">Dinamica e Anelasticit&agrave; delle Strutture (6 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/DIAS.html"><font color="blue">Dinamica e Anelasticit&agrave; delle Strutture (6 CFU)</font></a></b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/rferrari/blob/main/Archivio_MCSS/MCSS.html"><font color="blue">Computational Mechanics of Solids and Structures (6 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/CMSS.html"><font color="blue">Computational Mechanics of Solids and Structures (6 CFU)</font></a></b>
 <br>
-- <b><a target="nuovo" href="http://htmlpreview.github.io/?https://github.com/SdCBG/rferrari/blob/main/Archivio_SM/SM.html"><font color="blue">Structural Monitoring (3 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/SM.html"><font color="blue">Structural Monitoring (3 CFU)</font></a></b>
