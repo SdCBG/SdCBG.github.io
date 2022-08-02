@@ -4,7 +4,7 @@
 <br>
 ## Persone
 
-<img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" width="100" border="0"></a>
+<img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg">
 
 - **Egidio RIZZI**
 PO
