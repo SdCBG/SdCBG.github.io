@@ -3,6 +3,7 @@
 ## <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
 ## <b>Università degli studi di Bergamo</b>
 
+
 <br>
 ## <b>Persone<b>
 
