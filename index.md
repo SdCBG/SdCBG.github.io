@@ -4,7 +4,7 @@
 ## <b>Università degli studi di Bergamo</b>
 
 
-## ()()()()<b>Persone<b>
+## <b>       Persone<b>
 
 - **Egidio RIZZI**
 PO
