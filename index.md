@@ -1,4 +1,4 @@
-![Image](/Files/logoSdCbG.jpg)
+![Image](/Files/logoSdCbG.jpg width=100)
 ## SdCBG - Gruppo di Scienza delle Costruzioni
 ## Università degli studi di Bergamo
 
@@ -7,7 +7,7 @@
 
 - **Egidio RIZZI**
 PO
-[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) and ![Image](/Files/egidiorizzi3.jpg)
+[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) ![Image](/Files/egidiorizzi3.jpg)
 
 - **Rosalba FERRARI**
 RTD-B
@@ -23,9 +23,8 @@ Docente esterno
 
 
 <br>
-<br>
 ## Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI
-
+<br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 <br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SdC.html"><font color="blue">Scienza delle Costruzioni (Edi, Mec; 9 CFU)</font></a></b>
