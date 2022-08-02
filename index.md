@@ -5,7 +5,7 @@
 
   
 <br>
-## <b>Persone<b>
+## &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>Persone<b>
 
 - **Egidio RIZZI**
 PO
@@ -32,7 +32,7 @@ Docente esterno
 
 <br>
   <br>
-# <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
+## <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
 
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 
