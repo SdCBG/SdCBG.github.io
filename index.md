@@ -3,9 +3,8 @@
 ## <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
 ## <b>Università degli studi di Bergamo</b>
 
-  
-<br>
-##                     <b>Persone<b>
+<p><strong>text-indent: 4em;</strong></p>
+## <b>Persone<b>
 
 - **Egidio RIZZI**
 PO
