@@ -24,7 +24,6 @@ Docente esterno
 <br>
 <br>
 ## Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI
-<br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 <br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SdC.html"><font color="blue">Scienza delle Costruzioni (Edi, Mec; 9 CFU)</font></a></b>
