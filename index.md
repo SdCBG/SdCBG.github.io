@@ -1,4 +1,4 @@
-## SdCBG - Gruppo di Scienza delle Costruzioni <img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" data-canonical-src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" width="200" height="400" />
+## SdCBG - Gruppo di Scienza delle Costruzioni <img src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" data-canonical-src="https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/logoSdCbG.jpg" width="200"  />
 ## Università degli studi di Bergamo
 
 <br>
