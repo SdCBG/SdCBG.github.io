@@ -1,4 +1,4 @@
-![Image](/Files/logoSdCbG.jpg width=100)
+![Image](/Files/logoSdCbG.jpg)
 ## SdCBG - Gruppo di Scienza delle Costruzioni
 ## Università degli studi di Bergamo
 
