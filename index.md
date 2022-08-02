@@ -1,4 +1,5 @@
-## SdCBG - Gruppo di Scienza delle Costruzioni ![Image](/Files/logoSdCbG.jpg)
+![Image](/Files/logoSdCbG.jpg)
+## SdCBG - Gruppo di Scienza delle Costruzioni
 ## Università degli studi di Bergamo
 
 <br>
@@ -10,20 +11,21 @@ PO
 
 - **Rosalba FERRARI**
 RTD-B
-[Link](https://www.unibg.it/ugov/person/483) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/ferrarirosalba_sitounibg2_0.jpg)
+[Link](https://www.unibg.it/ugov/person/483) ![Image](/Files/ferrarirosalba_sitounibg2_0.jpg)
 
 - **Aram CORNAGGIA**
 AR
-[Link](https://www.unibg.it/ugov/person/84888) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/aramcornaggia.jpg)
+[Link](https://www.unibg.it/ugov/person/84888) ![Image](/Files/aramcornaggia.jpg)
 
 - **Giuseppe COCCHETTI**
 Docente esterno
-[Link](https://www.unibg.it/ugov/person/2428) and ![Image](https://github.com/SdCBG/SdCBG.github.io/blob/main/Files/giuseppecocchetti.jpg)
+[Link](https://www.unibg.it/ugov/person/2428) ![Image](/Files/giuseppecocchetti.jpg)
 
 
 <br>
 <br>
 ## Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI
+
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 <br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SdC.html"><font color="blue">Scienza delle Costruzioni (Edi, Mec; 9 CFU)</font></a></b>
