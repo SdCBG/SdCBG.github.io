@@ -1,4 +1,4 @@
-<img src="/Files/logoSdCbG.jpg" width="195" align=left />
+<img src="/Files/logoSdCbG.jpg" width="210" align=left />
 
 ## <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
 ## <b>Università degli studi di Bergamo</b>
