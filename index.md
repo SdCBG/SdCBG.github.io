@@ -1,9 +1,10 @@
-<img src="/Files/logoSdCbG.jpg" width="100" align=left />
-## **SdCBG - Gruppo di Scienza delle Costruzioni**
-## **Università degli studi di Bergamo**
+<img src="/Files/logoSdCbG.jpg" width="150" align=left />
+
+## <b>SdCBG - Gruppo di Scienza delle Costruzioni</b>
+## <b>Università degli studi di Bergamo</b>
 
 <br>
-## **Persone**
+## <b>Persone<b>
 
 - **Egidio RIZZI**
 PO
@@ -23,8 +24,8 @@ Docente esterno
 
 
 <br>
-## **Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI**
-<br>
+## <b>Insegnamenti SSD ICAR/08 - SCIENZA DELLE COSTRUZIONI</b>
+
 - <b><a target="nuovo" href="https://SdCBG.github.io/SeFdSdC.html"><font color="blue">Statica e Fondamenti di Scienza delle Costruzioni (Edi GL; 9 CFU)</font></a></b>
 <br>
 - <b><a target="nuovo" href="https://SdCBG.github.io/SdC.html"><font color="blue">Scienza delle Costruzioni (Edi, Mec; 9 CFU)</font></a></b>
