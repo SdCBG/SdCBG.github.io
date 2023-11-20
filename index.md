@@ -16,14 +16,14 @@ PO
 <br>
 
 - **Rosalba FERRARI**
-RTD-B
+PA
 [Link](https://www.unibg.it/ugov/person/483) ![Image](/Files/ferrarirosalba_sitounibg2_0.jpg)
 <br>
 <br>
 <br>
   
 - **Aram CORNAGGIA**
-AR
+RTD-A
 [Link](https://www.unibg.it/ugov/person/84888) ![Image](/Files/aramcornaggia.jpg)
 <br>
 <br>
