@@ -43,7 +43,7 @@ Docente esterno
 
 - <b><a target="nuovo" href="https://SdCBG.github.io/CdSdC.html"><font color="blue">Complementi di Scienza delle Costruzioni (LM Edi, Mec; 6 CFU)</font></a></b>
 
-- <b><a target="nuovo" href="https://SdCBG.github.io/DIAS.html"><font color="blue">Dinamica e Anelasticit&agrave; delle Strutture (LM Edi; 6 CFU)</font></a></b>
+- <b><a target="nuovo" href="https://SdCBG.github.io/DIAS.html"><font color="blue">Dinamica, Instabilit&agrave; e Anelasticit&agrave; delle Strutture (LM Edi; 6 CFU)</font></a></b>
 
 - <b><a target="nuovo" href="https://SdCBG.github.io/CMSS.html"><font color="blue">Computational Mechanics of Solids and Structures (LM Edi, Mec; 6 CFU)</font></a></b>
 
