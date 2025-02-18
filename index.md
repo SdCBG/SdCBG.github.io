@@ -48,3 +48,5 @@ Docente esterno
 - <b><a target="nuovo" href="https://SdCBG.github.io/CMSS.html"><font color="blue">Computational Mechanics of Solids and Structures (LM Edi, Mec; 6 CFU)</font></a></b>
 
 - <b><a target="nuovo" href="https://SdCBG.github.io/SM.html"><font color="blue">Structural Monitoring (LM Mec STE, Edi; 3 CFU)</font></a></b>
+
+- <b><a target="nuovo" href="https://SdCBG.github.io/MS.html"><font color="blue">Meccanica dei Solidi (TeSEA; 6 CFU)</font></a></b>
