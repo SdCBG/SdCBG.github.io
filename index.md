@@ -10,7 +10,7 @@
 
 - **Egidio RIZZI**
 PO
-[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) ![Image](/Files/egidiorizzi3.jpg width=100x100)
+[Link](https://www.unibg.it/ugov/person/2966) [Site](https://SdCBG.github.io/erizzi.html) ![Image](/Files/egidiorizzi3.jpg)
 <br>
 <br>
 <br>
