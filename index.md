@@ -22,13 +22,6 @@ PA
 <br>
 <br>
   
-- **Aram CORNAGGIA**
-RTD-A
-[Link](https://www.unibg.it/ugov/person/84888) ![Image](/Files/aramcornaggia.jpg)
-<br>
-<br>
-<br>
-  
 - **Giuseppe COCCHETTI**
 Docente esterno
 [Link](https://www.unibg.it/ugov/person/2428) ![Image](/Files/giuseppecocchetti.jpg)
